@@ -23,7 +23,7 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced **React.js** <img src="https://media.giphy.com/media/xUPGcj3Vbpz6W1iPu4/giphy.gif" width="25"/>
+- **React.js** <img src="https://media.giphy.com/media/xUPGcj3Vbpz6W1iPu4/giphy.gif" width="25"/>
 - **Backend with PHP, Node.js & MongoDB** <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="25"/>
 - **MySQL databases & system design** <img src="https://media.giphy.com/media/3o7aCVW3X2Q3Eo5uLu/giphy.gif" width="25"/>
 
