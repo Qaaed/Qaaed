@@ -1,6 +1,6 @@
 <!-- Header with animated greeting -->
 <h1 align="center">
-  Wagwan - British Slang for Greeting <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> , I'm Qaaed Usaim
+  Wagwan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> , I'm Qaaed Usaim
 </h1>
 
 <p align="center">
