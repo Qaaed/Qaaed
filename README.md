@@ -73,12 +73,4 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qaaed&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-⭐️ *Thanks for visiting my profile!* 😃
