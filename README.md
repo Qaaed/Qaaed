@@ -1,78 +1,44 @@
-<h1 align="center">
-  Assalamualaikum, I'm <strong>Qaaed Usaim</strong> 👨‍💻
-</h1>
+# Assalamualaikum, I'm Qaaed Usaim 👋
 
-<!-- Fun + Clean Design Line -->
-<p align="center">
-  🚀 Full-Stack Developer in Progress • 🧠 CS Student • 
-</p>
+Computer Science student at IIT (University of Westminster).  
+Interested in building scalable web applications, backend systems, and AI-driven solutions.
 
-<p align="center">
-  ───────────────────────────────────────────────
-</p>
-
----
-
-## 🌟 About Me
-- 🎓 Second-year **Computer Science student** at IIT, University of Westminster.  
-- 💻 Passionate about **web development**, **backend systems**, and **AI**.  
-- ⚡ Enjoy building clean UIs & efficient backend systems.  
-- 😄 Fun fact: I debug life the same way I debug code.  
-
----
-
-## 🛠️ Tech Stack  
-
-### 🚀 Languages  
+## Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Python-grey?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/Java-grey?style=flat&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/PHP-grey?style=flat&logo=php"/>
+  <img src="https://img.shields.io/badge/HTML-grey?style=flat&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-grey?style=flat&logo=css3"/>
 </p>
 
-### ⚛️ Frontend  
+## Frameworks
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-grey?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/Vite-grey?style=flat&logo=vite"/>
+  <img src="https://img.shields.io/badge/Tailwind-grey?style=flat&logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/Node.js-grey?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Flask-grey?style=flat&logo=flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-grey?style=flat&logo=fastapi"/>
 </p>
 
-### 🛠️ Backend  
+## Tools & Databases
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-grey?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-grey?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/MongoDB-grey?style=flat&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-grey?style=flat&logo=mysql"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Firebase-grey?style=flat&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Netlify-grey?style=flat&logo=netlify"/>
 </p>
 
-### 🗄️ Databases  
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
+## Connect
 
-### 🔧 Tools & Version Control  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📫 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/qaaedusaim/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://discordapp.com/users/558461675532189725">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/qaaed_usaim/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Khorruptz">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/qaaedusaim/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://discordapp.com/users/558461675532189725">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
