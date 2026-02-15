@@ -1,7 +1,6 @@
 # Assalamualaikum, I'm Qaaed Usaim 👋
 
-Computer Science student at IIT (University of Westminster).  
-Interested in building scalable web applications, backend systems, and AI-driven solutions.
+SHAWTY DING DING DING DING DING DING DOOOOOOOOOOOOO
 
 ## Languages
 <p>
@@ -15,23 +14,30 @@ Interested in building scalable web applications, backend systems, and AI-driven
 
 ## Frameworks
 <p>
-  <img src="https://img.shields.io/badge/React-grey?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/Vite-grey?style=flat&logo=vite"/>
-  <img src="https://img.shields.io/badge/Tailwind-grey?style=flat&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Node.js-grey?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Flask-grey?style=flat&logo=flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-grey?style=flat&logo=fastapi"/>
+<img src="https://img.shields.io/badge/React-grey?style=flat&logo=react"/>
+<img src="https://img.shields.io/badge/Vite-grey?style=flat&logo=vite"/>
+<img src="https://img.shields.io/badge/Tailwind-grey?style=flat&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Node.js-grey?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/Flask-grey?style=flat&logo=flask"/>
+<img src="https://img.shields.io/badge/FastAPI-grey?style=flat&logo=fastapi"/>
 </p>
 
 ## Tools & Databases
 <p>
-  <img src="https://img.shields.io/badge/Git-grey?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-grey?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/MongoDB-grey?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-grey?style=flat&logo=mysql"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Firebase-grey?style=flat&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Netlify-grey?style=flat&logo=netlify"/>
+<img src="https://img.shields.io/badge/Git-grey?style=flat&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-grey?style=flat&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-grey?style=flat&logo=postman"/>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-grey?style=flat&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-grey?style=flat&logo=mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Firebase-grey?style=flat&logo=firebase"/>
+<img src="https://img.shields.io/badge/Supabase-grey?style=flat&logo=supabase"/>
+<img src="https://img.shields.io/badge/ImageKit.io-grey?style=flat&logo=imagekit"/>
+<img src="https://img.shields.io/badge/Docker-grey?style=flat&logo=docker"/>
+<img src="https://img.shields.io/badge/Notion-grey?style=flat&logo=notion"/>
+<img src="https://img.shields.io/badge/Trello-grey?style=flat&logo=trello"/>
+<img src="https://img.shields.io/badge/ClickUp-grey?style=flat&logo=clickup"/>
+<img src="https://img.shields.io/badge/Netlify-grey?style=flat&logo=netlify"/>
 </p>
 
 ## Connect
