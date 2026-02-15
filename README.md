@@ -32,12 +32,10 @@ SHAWTY DING DING DING DING DING DING DOOOOOOOOOOOOO
 <img src="https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql"/>
 <img src="https://img.shields.io/badge/Firebase-grey?style=flat&logo=firebase"/>
 <img src="https://img.shields.io/badge/Supabase-grey?style=flat&logo=supabase"/>
-<img src="https://img.shields.io/badge/ImageKit.io-grey?style=flat&logo=imagekit"/>
-<img src="https://img.shields.io/badge/Docker-grey?style=flat&logo=docker"/>
 <img src="https://img.shields.io/badge/Notion-grey?style=flat&logo=notion"/>
 <img src="https://img.shields.io/badge/Trello-grey?style=flat&logo=trello"/>
 <img src="https://img.shields.io/badge/ClickUp-grey?style=flat&logo=clickup"/>
-<img src="https://img.shields.io/badge/Netlify-grey?style=flat&logo=netlify"/>
+
 </p>
 
 ## Connect
