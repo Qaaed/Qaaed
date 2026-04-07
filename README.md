@@ -1,48 +1,34 @@
-# Assalamualaikum, I'm Qaaed Usaim 👋
+<h3>Good morning</h3>
 
-SHAWTY DING DING DING DING DING DING DOOOOOOOOOOOOO
-
-## Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Python-grey?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-grey?style=flat&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/PHP-grey?style=flat&logo=php"/>
-  <img src="https://img.shields.io/badge/HTML-grey?style=flat&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-grey?style=flat&logo=css3"/>
+  I'm Qaaed Usaim and I like to type on my Glorious GMMK Modular Mechanical Gaming Keyboard - 60% Compact Size (61 Key) - RGB LED Backlit, Brown Switches, Hot Swap Switches (Black)(GMMK-Compact-BRN).
+</p>
+<p>
+  Outside of coding, you'll find me on the football pitch—usually sending a clear shot on goal into the neighbor's garden. I achieve peak productivity through a mix of British rap, mumble rap, and enough white noise to drown out my own thoughts.
 </p>
 
-## Frameworks
+<br />
+
 <p>
-<img src="https://img.shields.io/badge/React-grey?style=flat&logo=react"/>
-<img src="https://img.shields.io/badge/Vite-grey?style=flat&logo=vite"/>
-<img src="https://img.shields.io/badge/Tailwind-grey?style=flat&logo=tailwindcss"/>
-<img src="https://img.shields.io/badge/Node.js-grey?style=flat&logo=node.js"/>
-<img src="https://img.shields.io/badge/Flask-grey?style=flat&logo=flask"/>
-<img src="https://img.shields.io/badge/FastAPI-grey?style=flat&logo=fastapi"/>
+  <b>Languages:</b> JavaScript, Python, Java, PHP, HTML, CSS <br />
+  
+  <b>Frameworks:</b> React, Node.js, Express.js, FastAPI, Tailwind CSS <br />
+  
+  <b>Databases:</b> MongoDB, MySQL, PostgreSQL, Firebase, Supabase <br />
+  
+  <b>Tools:</b> Git, GitHub, Postman, Notion
 </p>
 
-## Tools & Databases
+<br />
+
+<p>Let's connect!</p>
+
 <p>
-<img src="https://img.shields.io/badge/Git-grey?style=flat&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-grey?style=flat&logo=github"/>
-<img src="https://img.shields.io/badge/Postman-grey?style=flat&logo=postman"/>
-<img src="https://img.shields.io/badge/MongoDB_Atlas-grey?style=flat&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MySQL-grey?style=flat&logo=mysql"/>
-<img src="https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Firebase-grey?style=flat&logo=firebase"/>
-<img src="https://img.shields.io/badge/Supabase-grey?style=flat&logo=supabase"/>
-<img src="https://img.shields.io/badge/Notion-grey?style=flat&logo=notion"/>
-<img src="https://img.shields.io/badge/Trello-grey?style=flat&logo=trello"/>
-<img src="https://img.shields.io/badge/ClickUp-grey?style=flat&logo=clickup"/>
-
+  <a href="https://www.linkedin.com/in/qaaedusaim/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
-## Connect
-
-<a href="https://www.linkedin.com/in/qaaedusaim/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://discordapp.com/users/558461675532189725">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
