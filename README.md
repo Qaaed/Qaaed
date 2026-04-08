@@ -12,11 +12,11 @@
 <p>
   <b>Languages:</b> JavaScript, Python, Java, PHP, HTML, CSS <br />
   
-  <b>Frameworks:</b> React, Node.js, Express.js, FastAPI, Tailwind CSS <br />
+  <b>Frameworks:</b> React, Node.js, Express.js, FastAPI, Tailwind CSS, SQLAlchemy <br />
   
-  <b>Databases:</b> MongoDB, MySQL, PostgreSQL, Firebase, Supabase <br />
+  <b>Databases:</b> MongoDB, MySQL, PostgreSQL, Firebase, Supabase, SQLite <br />
   
-  <b>Tools:</b> Git, GitHub, Postman, Notion
+  <b>Tools:</b> Git, GitHub, Postman
 </p>
 
 <br />
