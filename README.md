@@ -4,19 +4,19 @@
   I'm Qaaed Usaim and I like to type on my Glorious GMMK Modular Mechanical Gaming Keyboard - 60% Compact Size (61 Key) - RGB LED Backlit, Brown Switches, Hot Swap Switches (Black)(GMMK-Compact-BRN).
 </p>
 <p>
-  Outside of coding, you'll find me on the football pitch—usually sending a clear shot on goal into the neighbor's garden. I achieve peak productivity through a mix of British rap, mumble rap, and enough white noise to drown out my own thoughts.
+Fueled by [PHONK WILL TAKE YOU PLACES](https://open.spotify.com/playlist/79jO4IZNVg6JNQydMxL4Xe) 
 </p>
 
 <br />
 
 <p>
-  <b>Languages:</b> JavaScript, Python, Java, PHP, HTML, CSS <br />
+  <b>Languages:</b> JavaScript, Python, Java, PHP, HTML, CSS, TypeScript <br />
   
-  <b>Frameworks:</b> React, Node.js, Express.js, FastAPI, Tailwind CSS, SQLAlchemy <br />
+  <b>Frameworks:</b> React, Node.js, Express.js, FastAPI, Tailwind CSS, SQLAlchemy, Bootstrap<br />
   
   <b>Databases:</b> MongoDB, MySQL, PostgreSQL, Firebase, Supabase, SQLite <br />
   
-  <b>Tools:</b> Git, GitHub, Postman
+  <b>Tools:</b> Git, GitHub, Postman, Netlify, Vercel
 </p>
 
 <br />
