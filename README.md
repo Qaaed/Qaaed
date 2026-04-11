@@ -7,8 +7,6 @@
 Fueled by [PHONK WILL TAKE YOU PLACES](https://open.spotify.com/playlist/79jO4IZNVg6JNQydMxL4Xe) 
 </p>
 
-<br />
-
 <p>
   <b>Languages:</b> JavaScript, Python, Java, PHP, HTML, CSS, TypeScript <br />
   
